@@ -51,6 +51,9 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-# Other
-.DS_Store
+# Visual Studio Code
 .vscode
+
+# Mac
+.DS_Store
+*.icloud
