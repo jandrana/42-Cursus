@@ -1,4 +1,4 @@
-# 42Cursus (11Sep2023 - Ongoing)
+# 42 Cursus (11Sep2023 - Ongoing)
 
 Welcome to my 42Cursus repository! This is where I'll be sharing all the projects I work on during my time as a student in 42Malaga.
 
