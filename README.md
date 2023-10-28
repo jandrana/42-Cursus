@@ -15,26 +15,26 @@ Feel free to explore the repo, provide feedback, and follow along!
 
 | Level  | Project | Status | Bonus | Grade | Date |
 | ------ | ------- | ----- |  ----- | ----- | ----- |
-| 0 | [libft](./libft) | Completed | ✅ | 125/100 | 18/09/2023 |
-| 1 | [ft_printf](./ft_printf) | Completed | ❌ | 100/100 | 25/09/2023 |
-| 1 | [get_next_line](./get_next_line) | Completed | ✅ | 125/100 | 02/10/2023 |
+| 0 | [libft](https://github.com/jandrana/libft) | Completed | ✅ | 125/100 | 18/09/2023 |
+| 1 | [ft_printf](https://github.com/jandrana/ft_printf) | Completed | ❌ | 100/100 | 25/09/2023 |
+| 1 | [get_next_line](https://github.com/jandrana/get_next_line) | Completed | ✅ | 125/100 | 02/10/2023 |
 | 1 | born2beroot | Completed | ✅ | 125/100 | 17/10/2023 |
 | 2 | Exam Rank 02 | Completed | N/A | 100/100 | 19/10/2023 |
 | 2 | push_swap | In Progress | ❓ | TBD | --/--/---- |
 
 ## Project Descriptions
 
-### Level 0: [libft](./libft)
+### Level 0: [libft](https://github.com/jandrana/libft)
 
 The `libft` project is the first one of my journey as a 42 student and has played a crucial role in upcoming assignments, since the library created here is used in upcoming projects. Here, I created my very first C library from scratch.
 
 This project pushed me to deeply understand how the original replicated functions work, helping me develop a more comprehensive understanding of their inner workings and how to enhance them. It's not just about meeting project requirements; it's about making the best possible library since it will become the base of many other projects.
 
-### Level 1: [ft_printf](./ft_printf)
+### Level 1: [ft_printf](https://github.com/jandrana/ft_printf)
 
 In the "ft_printf" project, I replicated the functionality of the standard `printf` function in C. The main challenge of this project was to learn how variadic functions work and how to use them, which involved handling the formatting and printing of text with different data types. Completing this project made possible adding it to my "libft" library for future use.
 
-### Level 1: [get_next_line](./get_next_line)
+### Level 1: [get_next_line](https://github.com/jandrana/get_next_line)
 
 The "get_next_line" project focuses on developing a function that reads content from a file descriptor line by line. With this project I got the opportunity to really understand how to prevent memory leaks and how to allocate just the neccessary space in order to increase the optimization of the code. Furthermore, with the bonus files, not only you can read content from one but from as many file descriptor as you want without losing track of what line you have to return next.
 
