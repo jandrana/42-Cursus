@@ -83,17 +83,17 @@ Feel free to explore the repo, provide feedback, and follow along!
                <tr align="center">
                   <td>⚫️</td>
                   <td>In progress</td>
-                  <td><img src=".github/assets/push_swapn.png" alt="in progress" width="70"/></td>
+                  <td><img src=".github/assets/inprogress.png" alt="in progress" width="70"/></td>
                </tr>
                <tr align="center">
                   <td>🔵</td>
                   <td>Finished</td>
-                  <td><img src=".github/assets/ft_printfe.png" alt="completed" width="70"/></td>
+                  <td><img src=".github/assets/finished.png" alt="completed" width="70"/></td>
                </tr>
                <tr align="center">
                   <td>⭐️</td>
                   <td>Finished<br>with bonus</td>
-                  <td><img src=".github/assets/libftm.png" alt="completed bonus" width="68"/></td>
+                  <td><img src=".github/assets/bonus.png" alt="completed bonus" width="68"/></td>
                </tr>
             </tbody>
          </table>
