@@ -1,8 +1,6 @@
-# 42 Cursus (11Sep2023 - Ongoing)
+<p align="center"><img src=".github/assets/cursusbanner.png" alt="Cursus banner"/></p>
 
 Welcome to my 42Cursus repository! This is where I'll be sharing all the projects I work on during my time as a student in 42Malaga.
-
-## About This Repository
 
 The purpose of this repository is to keep track of my journey as a coding student at 42. Here, you'll find the projects I develop as part of my 42 experience. 
 
