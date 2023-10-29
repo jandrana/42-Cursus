@@ -7,3 +7,6 @@
 [submodule "get_next_line"]
 	path = get_next_line
 	url = https://github.com/jandrana/get_next_line
+[submodule "born2beroot"]
+	path = born2beroot
+	url = https://github.com/jandrana/born2beroot
