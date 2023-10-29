@@ -111,15 +111,15 @@ This project pushed me to deeply understand how the original replicated function
 
 ### Level 1: [ft_printf](https://github.com/jandrana/ft_printf)
 
-In the "ft_printf" project, I replicated the functionality of the standard `printf` function in C. The main challenge of this project was to learn how variadic functions work and how to use them, which involved handling the formatting and printing of text with different data types. Completing this project made possible adding it to my "libft" library for future use.
+In the `ft_printf` project, I replicated the functionality of the standard `printf` function in C. The main challenge of this project was to learn how variadic functions work and how to use them, which involved handling the formatting and printing of text with different data types. Completing this project made possible adding it to my "libft" library for future use.
 
 ### Level 1: [get_next_line](https://github.com/jandrana/get_next_line)
 
-The "get_next_line" project focuses on developing a function that reads content from a file descriptor line by line. With this project I got the opportunity to really understand how to prevent memory leaks and how to allocate just the neccessary space in order to increase the optimization of the code. Furthermore, with the bonus files, not only you can read content from one but from as many file descriptor as you want without losing track of what line you have to return next.
+The `get_next_line` project focuses on developing a function that reads content from a file descriptor line by line. With this project I got the opportunity to really understand how to prevent memory leaks and how to allocate just the neccessary space in order to increase the optimization of the code. Furthermore, with the bonus files, not only you can read content from one but from as many file descriptor as you want without losing track of what line you have to return next.
 
 ### Level 1: born2beroot
 
-With the "born2beroot" proyect I learned to create and configure a VM with Debian (without graphical interface). After installing the VM I got to install and configure the following programs/services: sudo (including commands logs), ssh, ufw, wordpress (mariadb, php, openlitespeed). The project also included the development of a sh script that showed general information of the virtual machine every 10 minutes. Information like: VM architecture, RAM load, CPU load, ip and MAC address, number of: vCPU, TCP connections, sudo commands done...
+With the `born2beroot` proyect I learned to create and configure a VM with Debian (without graphical interface). After installing the VM I got to install and configure the following programs/services: sudo (including commands logs), ssh, ufw, wordpress (mariadb, php, openlitespeed). The project also included the development of a sh script that showed general information of the virtual machine every 10 minutes. Information like: VM architecture, RAM load, CPU load, ip and MAC address, number of: vCPU, TCP connections, sudo commands done...
 
 In the following days I will upload a series of screenshots of my born2beroot and some more explanations.
 
