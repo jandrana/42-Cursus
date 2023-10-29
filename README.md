@@ -9,16 +9,97 @@ The purpose of this repository is to keep track of my journey as a coding studen
 Feel free to explore the repo, provide feedback, and follow along!
 
 **Important Notice:** ⚠️ This repository is intended as a learning resource and to keep track of my personal progress. While I encourage you to use it to enhance your understanding and skills, it's crucial to understand that copying or using this code inappropriately for presenting your 42 personal projects can lead to a cheating grade. Moreover, copying code won't help your academic growth, which is why I highly discourage you to do it.
-## Proyects
+## Projects
 
-| Level  | Project | Status | Bonus | Grade | Date |
-| ------ | ------- | ----- |  ----- | ----- | ----- |
-| 0 | [libft](https://github.com/jandrana/libft) | Completed | ✅ | 125/100 | 18/09/2023 |
-| 1 | [ft_printf](https://github.com/jandrana/ft_printf) | Completed | ❌ | 100/100 | 25/09/2023 |
-| 1 | [get_next_line](https://github.com/jandrana/get_next_line) | Completed | ✅ | 125/100 | 02/10/2023 |
-| 1 | born2beroot | Completed | ✅ | 125/100 | 17/10/2023 |
-| 2 | Exam Rank 02 | Completed | N/A | 100/100 | 19/10/2023 |
-| 2 | push_swap | In Progress | ❓ | TBD | --/--/---- |
+<table>
+   <thead>
+      <th>Projects</th>
+      <th>Legend</th>
+   </thead>
+   <tbody>
+      <tr><td>
+            <table>
+               <tr>
+                  <td>Level 0</td>
+                  <td><a href="https://github.com/jandrana/libft"><img src=".github/assets/libftm.png" alt="libft bonus" width="90"/></a></td>
+               </tr>
+               <tr>
+                  <td>Grade:</td>
+                  <td align="center">125/100</td>
+               </tr>
+               <tr align="center">
+                  <td>Submission:</td>
+                  <td><a href="https://github.com/jandrana/libft">18/09/2023</a></td>
+               </tr>
+            </table>
+            <table>
+               <tr>
+                  <td>Level 1</td>
+                  <td><a href="https://github.com/jandrana/ft_printf"><img src=".github/assets/ft_printfe.png" alt="printf" width="95"/></a></td>
+                  <td><a href="https://github.com/jandrana/get_next_line"><img src=".github/assets/get_next_linem.png" alt="get_next_line bonus" width="90"/></a></td>
+                  <td><a href=""><img src=".github/assets/born2berootm.png" alt="born2beroot bonus" width="90"/></a></td>
+               </tr>
+               <tr>
+                  <td>Grade:</td>
+                  <td align="center">100/100</td>
+                  <td align="center">125/100</td>
+                  <td align="center">125/100</td>
+               </tr>
+               <tr align="center">
+                  <td>Submission:</td>
+                  <td><a href="https://github.com/jandrana/ft_printf">25/09/2023</a></td>
+                  <td><a href="https://github.com/jandrana/get_next_line">02/10/2023</a></td>
+                  <td>17/10/2023</td>
+               </tr>
+            </table>
+            <table>
+               <tr>
+                  <td>Level 2</td>
+                  <td align="center">Exam Rank<br>02</td>
+                  <td><a href=""><img src=".github/assets/push_swapn.png" alt="push_swap in progress" width="90"/></a></td>
+               </tr>
+               <tr>
+                  <td>Grade:</td>
+                  <td align="center">100/100</td>
+                  <td rowspan="2" align="center">❓</td>
+               </tr>
+               <tr align="center">
+                  <td>Submission:</td>
+                  <td>19/10/2023</td>
+               </tr>
+            </table>
+      </td>
+      <td>
+         <table>
+            <thead>
+               <th colspan="4">Badge Colours</th>
+            </thead>
+            <tbody>
+               <tr>
+                  <td><strong>Color</strong></td>
+                  <td><strong>Status</strong></td>
+                  <td><strong>Example</strong></td>
+               </tr>
+               <tr align="center">
+                  <td>⚫️</td>
+                  <td>In progress</td>
+                  <td><img src=".github/assets/push_swapn.png" alt="in progress" width="70"/></td>
+               </tr>
+               <tr align="center">
+                  <td>🔵</td>
+                  <td>Finished</td>
+                  <td><img src=".github/assets/ft_printfe.png" alt="completed" width="70"/></td>
+               </tr>
+               <tr align="center">
+                  <td>⭐️</td>
+                  <td>Finished<br>with bonus</td>
+                  <td><img src=".github/assets/libftm.png" alt="completed bonus" width="68"/></td>
+               </tr>
+            </tbody>
+         </table>
+      </td></tr>
+   </tbody>
+</table>
 
 ## Project Descriptions
 
