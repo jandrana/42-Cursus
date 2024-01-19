@@ -10,3 +10,6 @@
 [submodule "born2beroot"]
 	path = born2beroot
 	url = https://github.com/jandrana/born2beroot
+[submodule "minitalk"]
+	path = minitalk
+	url = https://github.com/jandrana/minitalk
