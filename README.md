@@ -14,39 +14,38 @@ Feel free to explore the repo, provide feedback, and follow along!
 <table>
    <thead>
       <th>Projects</th>
-      <th>Legend</th>
    </thead>
    <tbody>
-      <tr><td>
+      <td>
             <table>
                <tr>
-                  <td>Level 0</td>
+                  <td><strong>Level 0<strong></td>
                   <td><a href="https://github.com/jandrana/libft"><img src=".github/assets/libftm.png" alt="libft bonus" width="90"/></a></td>
                </tr>
                <tr>
-                  <td>Grade:</td>
+                  <td>Grade</td>
                   <td align="center">125/100</td>
                </tr>
                <tr align="center">
-                  <td>Submission:</td>
+                  <td>Submission</td>
                   <td><a href="https://github.com/jandrana/libft">18/09/2023</a></td>
                </tr>
             </table>
             <table>
                <tr>
-                  <td>Level 1</td>
+                  <td><strong>Level 1<strong></td>
                   <td><a href="https://github.com/jandrana/ft_printf"><img src=".github/assets/ft_printfe.png" alt="printf" width="95"/></a></td>
                   <td><a href="https://github.com/jandrana/get_next_line"><img src=".github/assets/get_next_linem.png" alt="get_next_line bonus" width="90"/></a></td>
                   <td><a href=""><img src=".github/assets/born2berootm.png" alt="born2beroot bonus" width="90"/></a></td>
                </tr>
                <tr>
-                  <td>Grade:</td>
+                  <td>Grade</td>
                   <td align="center">100/100</td>
                   <td align="center">125/100</td>
                   <td align="center">125/100</td>
                </tr>
                <tr align="center">
-                  <td>Submission:</td>
+                  <td>Submission</td>
                   <td><a href="https://github.com/jandrana/ft_printf">25/09/2023</a></td>
                   <td><a href="https://github.com/jandrana/get_next_line">02/10/2023</a></td>
                   <td>17/10/2023</td>
@@ -54,50 +53,40 @@ Feel free to explore the repo, provide feedback, and follow along!
             </table>
             <table>
                <tr>
-                  <td>Level 2</td>
-                  <td align="center">Exam Rank<br>02</td>
-                  <td><a href=""><img src=".github/assets/push_swapn.png" alt="push_swap in progress" width="90"/></a></td>
+                  <td><strong>Level 2<strong></td>
+                  <td align="center">Exam</td>
+                  <td><a href="https://github.com/jandrana/minitalk"><img src=".github/assets/minitalke.png" alt="minitalk" width="90"/></a></td>
+                  <td><a href="https://github.com/jandrana/push_swap"><img src=".github/assets/push_swape.png" alt="push_swap" width="90"/></a></td>
+                  <td><a href=""><img src=".github/assets/so_longn.png" alt="so_long in progress" width="90"/></a></td>
                </tr>
                <tr>
-                  <td>Grade:</td>
+                  <td>Grade</td>
                   <td align="center">100/100</td>
-                  <td rowspan="2" align="center">❓</td>
+                  <td colspan="3" rowspan="2" align="center">❓</td>
                </tr>
                <tr align="center">
-                  <td>Submission:</td>
+                  <td>Submission</td>
                   <td>19/10/2023</td>
                </tr>
             </table>
+            <table width="100" align="center">
+               <thead>
+                  <th colspan="3">Badge Colours - Legend</th>
+               </thead>
+               <tbody>
+                  <tr align="center">
+                     <td><strong>⚫️ In progress</strong></td>
+                     <td><strong>🔵 Finished</strong></td>
+                     <td><strong>⭐️ Finished + bonus</strong></td>
+                  </tr>
+                  <tr align="center">
+                     <td><img src=".github/assets/inprogress.png" alt="in progress" width="70"/></td>
+                     <td><img src=".github/assets/finished.png" alt="completed" width="70"/></td>
+                     <td><img src=".github/assets/bonus.png" alt="completed bonus" width="68"/></td>
+                  </tr>
+               </tbody>
+            </table>
       </td>
-      <td>
-         <table>
-            <thead>
-               <th colspan="4">Badge Colours</th>
-            </thead>
-            <tbody>
-               <tr>
-                  <td><strong>Color</strong></td>
-                  <td><strong>Status</strong></td>
-                  <td><strong>Example</strong></td>
-               </tr>
-               <tr align="center">
-                  <td>⚫️</td>
-                  <td>In progress</td>
-                  <td><img src=".github/assets/inprogress.png" alt="in progress" width="70"/></td>
-               </tr>
-               <tr align="center">
-                  <td>🔵</td>
-                  <td>Finished</td>
-                  <td><img src=".github/assets/finished.png" alt="completed" width="70"/></td>
-               </tr>
-               <tr align="center">
-                  <td>⭐️</td>
-                  <td>Finished<br>with bonus</td>
-                  <td><img src=".github/assets/bonus.png" alt="completed bonus" width="68"/></td>
-               </tr>
-            </tbody>
-         </table>
-      </td></tr>
    </tbody>
 </table>
 
@@ -119,9 +108,17 @@ The `get_next_line` project focuses on developing a function that reads content 
 
 ### Level 1: born2beroot
 
-With the `born2beroot` proyect I learned to create and configure a VM with Debian (without graphical interface). After installing the VM I got to install and configure the following programs/services: sudo (including commands logs), ssh, ufw, wordpress (mariadb, php, openlitespeed). The project also included the development of a sh script that showed general information of the virtual machine every 10 minutes. Information like: VM architecture, RAM load, CPU load, ip and MAC address, number of: vCPU, TCP connections, sudo commands done...
+With the `born2beroot` project I learned to create and configure a VM with Debian (without graphical interface). After installing the VM I got to install and configure the following programs/services: sudo (including commands logs), ssh, ufw, wordpress (mariadb, php, openlitespeed). The project also included the development of a sh script that showed general information of the virtual machine every 10 minutes. Information like: VM architecture, RAM load, CPU load, ip and MAC address, number of: vCPU, TCP connections, sudo commands done...
 
-In the following days I will upload a series of screenshots of my born2beroot and some more explanations.
+### Level 2: [push_swap](https://github.com/jandrana/push_swap)
+
+The `push_swap` project is a fundamental algorithmic challenge where you have to sort data in the most effective way possible. You're given a stack of integers, two stacks to manipulate, and a limited set of actions. The objective is to write a C program called `push_swap` that calculates and displays the smallest set of actions necessary to sort the initial stack. Developed within the project's guidelines, my program efficiently sorts the provided input.
+
+Being able to complete this project meant a big step forward in my learning path since I consider it to be much more difficult that any other projects that I have developed in C so far. I believe it is the project I learnt the most from and it is definitely the one I have enjoyed most so far.
+
+Things to highlight as learnt with this project:
+ - Development, optimization and implementation of sorting algorithms
+ - Utilization and deeper comprehension of data structures (double linked lists)
 
 ## Usage
 
