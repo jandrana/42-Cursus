@@ -55,13 +55,15 @@ Feel free to explore the repo, provide feedback, and follow along!
             <table>
                <tr>
                   <td>Level 2</td>
-                  <td align="center">Exam Rank<br>02</td>
-                  <td><a href=""><img src=".github/assets/push_swapn.png" alt="push_swap in progress" width="90"/></a></td>
+                  <td align="center">Exam</td>
+                  <td><a href="https://github.com/jandrana/minitalk"><img src=".github/assets/minitalke.png" alt="minitalk"/></a></td>
+                  <td><a href="https://github.com/jandrana/push_swap"><img src=".github/assets/push_swape.png" alt="push_swap"/></a></td>
+                  <td><a href=""><img src=".github/assets/so_longn.png" alt="so_long in progress"/></a></td>
                </tr>
                <tr>
                   <td>Grade:</td>
                   <td align="center">100/100</td>
-                  <td rowspan="2" align="center">❓</td>
+                  <td colspan="3" rowspan="2" align="center">❓</td>
                </tr>
                <tr align="center">
                   <td>Submission:</td>
@@ -75,7 +77,7 @@ Feel free to explore the repo, provide feedback, and follow along!
                <th colspan="4">Badge Colours</th>
             </thead>
             <tbody>
-               <tr>
+               <tr align="center">
                   <td><strong>Color</strong></td>
                   <td><strong>Status</strong></td>
                   <td><strong>Example</strong></td>
@@ -119,9 +121,17 @@ The `get_next_line` project focuses on developing a function that reads content 
 
 ### Level 1: born2beroot
 
-With the `born2beroot` proyect I learned to create and configure a VM with Debian (without graphical interface). After installing the VM I got to install and configure the following programs/services: sudo (including commands logs), ssh, ufw, wordpress (mariadb, php, openlitespeed). The project also included the development of a sh script that showed general information of the virtual machine every 10 minutes. Information like: VM architecture, RAM load, CPU load, ip and MAC address, number of: vCPU, TCP connections, sudo commands done...
+With the `born2beroot` project I learned to create and configure a VM with Debian (without graphical interface). After installing the VM I got to install and configure the following programs/services: sudo (including commands logs), ssh, ufw, wordpress (mariadb, php, openlitespeed). The project also included the development of a sh script that showed general information of the virtual machine every 10 minutes. Information like: VM architecture, RAM load, CPU load, ip and MAC address, number of: vCPU, TCP connections, sudo commands done...
 
-In the following days I will upload a series of screenshots of my born2beroot and some more explanations.
+### Level 2: [push_swap](https://github.com/jandrana/push_swap)
+
+The `push_swap` project is a fundamental algorithmic challenge where you have to sort data in the most effective way possible. You're given a stack of integers, two stacks to manipulate, and a limited set of actions. The objective is to write a C program called `push_swap` that calculates and displays the smallest set of actions necessary to sort the initial stack. Developed within the project's guidelines, my program efficiently sorts the provided input.
+
+Being able to complete this project meant a big step forward in my learning path since I consider it to be much more difficult that any other projects that I have developed in C so far. I believe it is the project I learnt the most from and it is definitely the one I have enjoyed most so far.
+
+Things to highlight as learnt with this project:
+ - Development, optimization and implementation of sorting algorithms
+ - Utilization and deeper comprehension of data structures (double linked lists)
 
 ## Usage
 
