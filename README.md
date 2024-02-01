@@ -14,39 +14,55 @@ Feel free to explore the repo, provide feedback, and follow along!
 <table>
    <thead>
       <th>Projects</th>
-      <th>Legend</th>
    </thead>
    <tbody>
-      <tr><td>
+      <td>
+            <table width="100" align="center">
+               <thead>
+                  <th colspan="3">Badge Colours - Legend</th>
+               </thead>
+               <tbody>
+                  <tr align="center">
+                     <td><strong>⚫️ In progress</strong></td>
+                     <td><strong>🔵 Finished</strong></td>
+                     <td><strong>⭐️ Finished + bonus</strong></td>
+                  </tr>
+                  <tr align="center">
+                     <td><img src=".github/assets/inprogress.png" alt="in progress" width="70"/></td>
+                     <td><img src=".github/assets/finished.png" alt="completed" width="70"/></td>
+                     <td><img src=".github/assets/bonus.png" alt="completed bonus" width="68"/></td>
+                  </tr>
+               </tbody>
+            </table>
             <table>
                <tr>
-                  <td>Level 0</td>
+                  <td><strong>Level 0<strong></td>
                   <td><a href="https://github.com/jandrana/libft"><img src=".github/assets/libftm.png" alt="libft bonus" width="90"/></a></td>
                </tr>
                <tr>
-                  <td>Grade:</td>
+                  <td>Grade</td>
                   <td align="center">125/100</td>
                </tr>
                <tr align="center">
-                  <td>Submission:</td>
+                  <td>Submission</td>
                   <td><a href="https://github.com/jandrana/libft">18/09/2023</a></td>
                </tr>
             </table>
             <table>
                <tr>
-                  <td>Level 1</td>
+                  <td><strong>Level 1<strong></td>
                   <td><a href="https://github.com/jandrana/ft_printf"><img src=".github/assets/ft_printfe.png" alt="printf" width="95"/></a></td>
                   <td><a href="https://github.com/jandrana/get_next_line"><img src=".github/assets/get_next_linem.png" alt="get_next_line bonus" width="90"/></a></td>
                   <td><a href=""><img src=".github/assets/born2berootm.png" alt="born2beroot bonus" width="90"/></a></td>
                </tr>
                <tr>
-                  <td>Grade:</td>
+                  <td>Grade</td>
                   <td align="center">100/100</td>
                   <td align="center">125/100</td>
                   <td align="center">125/100</td>
                </tr>
                <tr align="center">
-                  <td>Submission:</td>
+                  <td>Submission</td>
                   <td><a href="https://github.com/jandrana/ft_printf">25/09/2023</a></td>
                   <td><a href="https://github.com/jandrana/get_next_line">02/10/2023</a></td>
                   <td>17/10/2023</td>
@@ -54,52 +70,23 @@ Feel free to explore the repo, provide feedback, and follow along!
             </table>
             <table>
                <tr>
-                  <td>Level 2</td>
+                  <td><strong>Level 2<strong></td>
                   <td align="center">Exam</td>
                   <td><a href="https://github.com/jandrana/minitalk"><img src=".github/assets/minitalke.png" alt="minitalk" width="90"/></a></td>
                   <td><a href="https://github.com/jandrana/push_swap"><img src=".github/assets/push_swape.png" alt="push_swap" width="90"/></a></td>
                   <td><a href=""><img src=".github/assets/so_longn.png" alt="so_long in progress" width="90"/></a></td>
                </tr>
                <tr>
-                  <td>Grade:</td>
+                  <td>Grade</td>
                   <td align="center">100/100</td>
                   <td colspan="3" rowspan="2" align="center">❓</td>
                </tr>
                <tr align="center">
-                  <td>Submission:</td>
+                  <td>Submission</td>
                   <td>19/10/2023</td>
                </tr>
             </table>
       </td>
-      <td>
-         <table>
-            <thead>
-               <th colspan="4">Badge Colours</th>
-            </thead>
-            <tbody>
-               <tr align="center">
-                  <td><strong>Color</strong></td>
-                  <td><strong>Status</strong></td>
-                  <td><strong>Example</strong></td>
-               </tr>
-               <tr align="center">
-                  <td>⚫️</td>
-                  <td>In progress</td>
-                  <td><img src=".github/assets/inprogress.png" alt="in progress" width="70"/></td>
-               </tr>
-               <tr align="center">
-                  <td>🔵</td>
-                  <td>Finished</td>
-                  <td><img src=".github/assets/finished.png" alt="completed" width="70"/></td>
-               </tr>
-               <tr align="center">
-                  <td>⭐️</td>
-                  <td>Finished<br>with bonus</td>
-                  <td><img src=".github/assets/bonus.png" alt="completed bonus" width="68"/></td>
-               </tr>
-            </tbody>
-         </table>
-      </td></tr>
    </tbody>
 </table>
 
