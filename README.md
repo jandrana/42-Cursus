@@ -17,23 +17,6 @@ Feel free to explore the repo, provide feedback, and follow along!
    </thead>
    <tbody>
       <td>
-            <table width="100" align="center">
-               <thead>
-                  <th colspan="3">Badge Colours - Legend</th>
-               </thead>
-               <tbody>
-                  <tr align="center">
-                     <td><strong>⚫️ In progress</strong></td>
-                     <td><strong>🔵 Finished</strong></td>
-                     <td><strong>⭐️ Finished + bonus</strong></td>
-                  </tr>
-                  <tr align="center">
-                     <td><img src=".github/assets/inprogress.png" alt="in progress" width="70"/></td>
-                     <td><img src=".github/assets/finished.png" alt="completed" width="70"/></td>
-                     <td><img src=".github/assets/bonus.png" alt="completed bonus" width="68"/></td>
-                  </tr>
-               </tbody>
-            </table>
             <table>
                <tr>
                   <td><strong>Level 0<strong></td>
@@ -85,6 +68,23 @@ Feel free to explore the repo, provide feedback, and follow along!
                   <td>Submission</td>
                   <td>19/10/2023</td>
                </tr>
+            </table>
+            <table width="100" align="center">
+               <thead>
+                  <th colspan="3">Badge Colours - Legend</th>
+               </thead>
+               <tbody>
+                  <tr align="center">
+                     <td><strong>⚫️ In progress</strong></td>
+                     <td><strong>🔵 Finished</strong></td>
+                     <td><strong>⭐️ Finished + bonus</strong></td>
+                  </tr>
+                  <tr align="center">
+                     <td><img src=".github/assets/inprogress.png" alt="in progress" width="70"/></td>
+                     <td><img src=".github/assets/finished.png" alt="completed" width="70"/></td>
+                     <td><img src=".github/assets/bonus.png" alt="completed bonus" width="68"/></td>
+                  </tr>
+               </tbody>
             </table>
       </td>
    </tbody>
