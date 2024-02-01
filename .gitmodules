@@ -13,3 +13,6 @@
 [submodule "minitalk"]
 	path = minitalk
 	url = https://github.com/jandrana/minitalk
+[submodule "push_swap"]
+	path = push_swap
+	url = https://github.com/jandrana/push_swap
