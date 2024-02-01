@@ -56,9 +56,9 @@ Feel free to explore the repo, provide feedback, and follow along!
                <tr>
                   <td>Level 2</td>
                   <td align="center">Exam</td>
-                  <td><a href="https://github.com/jandrana/minitalk"><img src=".github/assets/minitalke.png" alt="minitalk"/></a></td>
-                  <td><a href="https://github.com/jandrana/push_swap"><img src=".github/assets/push_swape.png" alt="push_swap"/></a></td>
-                  <td><a href=""><img src=".github/assets/so_longn.png" alt="so_long in progress"/></a></td>
+                  <td><a href="https://github.com/jandrana/minitalk"><img src=".github/assets/minitalke.png" alt="minitalk" width="90"/></a></td>
+                  <td><a href="https://github.com/jandrana/push_swap"><img src=".github/assets/push_swape.png" alt="push_swap" width="90"/></a></td>
+                  <td><a href=""><img src=".github/assets/so_longn.png" alt="so_long in progress" width="90"/></a></td>
                </tr>
                <tr>
                   <td>Grade:</td>
