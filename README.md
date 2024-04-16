@@ -56,17 +56,21 @@ Feel free to explore the repo, provide feedback, and follow along!
                   <td><strong>Level 2<strong></td>
                   <td align="center">Exam</td>
                   <td><a href="https://github.com/jandrana/minitalk"><img src=".github/assets/minitalke.png" alt="minitalk" width="90"/></a></td>
-                  <td><a href="https://github.com/jandrana/push_swap"><img src=".github/assets/push_swape.png" alt="push_swap" width="90"/></a></td>
-                  <td><a href=""><img src=".github/assets/so_longn.png" alt="so_long in progress" width="90"/></a></td>
+                  <td><a href="https://github.com/jandrana/push_swap"><img src=".github/assets/push_swapm.png" alt="push_swap" width="90"/></a></td>
+                  <td><a href="https://github.com/jandrana/so_long"><img src=".github/assets/so_longm.png" alt="so_long in progress" width="90"/></a></td>
                </tr>
                <tr>
                   <td>Grade</td>
                   <td align="center">100/100</td>
-                  <td colspan="3" rowspan="2" align="center">❓</td>
+                  <td rowspan="2" align="center">❓</td>
+                  <td align="center">125/100</td>
+                  <td align="center">125/100</td>
                </tr>
                <tr align="center">
                   <td>Submission</td>
                   <td>19/10/2023</td>
+                  <td><a href="https://github.com/jandrana/push_swap">14/03/2024</a></td>
+                  <td><a href="https://github.com/jandrana/so_long">15/04/2024</a></td>
                </tr>
             </table>
             <table width="100" align="center">
