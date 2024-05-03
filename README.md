@@ -74,6 +74,23 @@ Feel free to explore the repo, provide feedback, and follow along!
                   <td><a href="https://github.com/jandrana/minitalk">19/04/2024</a></td>
                </tr>
             </table>
+            <table>
+               <tr>
+                  <td><strong>Level 3<strong></td>
+                  <td align="center">Exam</td>
+                  <td><a href="https://github.com/jandrana/minishell"><img src=".github/assets/minishelln.png" alt="minishell in progress" width="90"/></a></td>
+                  <td><a href="https://github.com/jandrana/philosophers"><img src=".github/assets/philosophersn.png" alt="philosophers in progress" width="90"/></a></td>
+               </tr>
+               <tr>
+                  <td>Grade</td>
+                  <td align="center">100/100</td>
+                  <td colspan="2" rowspan="2" align="center"><a>❓</a></td>
+               </tr>
+               <tr align="center">
+                  <td>Submission</td>
+                  <td>03/05/2024</td>
+               </tr>
+            </table>
             <table width="100" align="center">
                <thead>
                   <th colspan="3">Badge Colours - Legend</th>
