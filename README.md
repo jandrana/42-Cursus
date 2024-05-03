@@ -145,12 +145,12 @@ Feel free to explore the repo, provide feedback, and follow along!
                      <td><strong>Passed/Tries</strong></td>
                   </tr>
                   <tr align="justify">
-                     <td>Level refers to the level corresponding to each exam</td>
-                     <td>Submission(s) refers to the dates of every submission(s) of each exam</td>
-                     <td>Passed / Tries refers to the number of times that I passed each exam divided by the number of times I took each exam</td>
+                     <td>Level <br>corresponding <br>to each exam</td>
+                     <td>Dates of every <br>submission(s) of <br>each exam</td>
+                     <td>Number of times that <br>I passed each exam <br>divided by the number <br>of times I took each exam</td>
                   </tr>
                   <tr>
-                     <td colspan="3"><p> In 42, in order to pass an exam you have to get a 100/100, any less is a failed exam</p></td>
+                     <td colspan="3"><p> In order to pass you have to get a 100/100, any less is a failed exam</p></td>
                   </tr>
                </tbody>
             </table>
