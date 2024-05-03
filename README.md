@@ -12,149 +12,132 @@ Feel free to explore the repo, provide feedback, and follow along!
 ## Projects
 
 <table>
+   <tr>
+      <td><strong>Level 0<strong></td>
+      <td><a href="https://github.com/jandrana/libft"><img src=".github/assets/libftm.png" alt="libft bonus" width="90"/></a></td>
+   </tr>
+   <tr>
+      <td>Grade</td>
+      <td align="center">125/100</td>
+   </tr>
+   <tr align="center">
+      <td>Submission</td>
+      <td><a href="https://github.com/jandrana/libft">18/09/2023</a></td>
+   </tr>
+</table>
+<table>
+   <tr>
+      <td><strong>Level 1<strong></td>
+      <td><a href="https://github.com/jandrana/ft_printf"><img src=".github/assets/ft_printfe.png" alt="printf" width="95"/></a></td>
+      <td><a href="https://github.com/jandrana/get_next_line"><img src=".github/assets/get_next_linem.png" alt="get_next_line bonus" width="90"/></a></td>
+      <td><a href=""><img src=".github/assets/born2berootm.png" alt="born2beroot bonus" width="90"/></a></td>
+   </tr>
+   <tr>
+      <td>Grade</td>
+      <td align="center">100/100</td>
+      <td align="center">125/100</td>
+      <td align="center">125/100</td>
+   </tr>
+   <tr align="center">
+      <td>Submission</td>
+      <td><a href="https://github.com/jandrana/ft_printf">25/09/2023</a></td>
+      <td><a href="https://github.com/jandrana/get_next_line">02/10/2023</a></td>
+      <td>17/10/2023</td>
+   </tr>
+</table>
+<table>
+   <tr>
+      <td><strong>Level 2<strong></td>
+      <td><a href="https://github.com/jandrana/push_swap"><img src=".github/assets/push_swapm.png" alt="push_swap" width="90"/></a></td>
+      <td><a href="https://github.com/jandrana/so_long"><img src=".github/assets/so_longm.png" alt="so_long in progress" width="90"/></a></td>
+      <td><a href="https://github.com/jandrana/minitalk"><img src=".github/assets/minitalkm.png" alt="minitalk" width="90"/></a></td>
+   </tr>
+   <tr>
+      <td>Grade</td>
+      <td align="center">125/100</td>
+      <td align="center">125/100</td>
+      <td align="center">125/100</td>
+   </tr>
+   <tr align="center">
+      <td>Submission</td>
+      <td><a href="https://github.com/jandrana/push_swap">14/03/2024</a></td>
+      <td><a href="https://github.com/jandrana/so_long">15/04/2024</a></td>
+      <td><a href="https://github.com/jandrana/minitalk">19/04/2024</a></td>
+   </tr>
+</table>
+<table>
+   <tr>
+      <td><strong>Level 3<strong></td>
+      <td><a href="https://github.com/jandrana/minishell"><img src=".github/assets/minishelln.png" alt="minishell in progress" width="90"/></a></td>
+      <td><a href="https://github.com/jandrana/philosophers"><img src=".github/assets/philosophersn.png" alt="philosophers in progress" width="90"/></a></td>
+   </tr>
+   <tr>
+      <td>Grade</td>
+      <td colspan="2" rowspan="2" align="center"><a>❓</a></td>
+   </tr>
+   <tr align="center">
+      <td>Submission</td>
+   </tr>
+</table>
+<table width="100">
    <thead>
-      <th>Projects</th>
+      <th colspan="3">Badge Colours - Legend</th>
    </thead>
    <tbody>
-      <td>
-            <table>
-               <tr>
-                  <td><strong>Level 0<strong></td>
-                  <td><a href="https://github.com/jandrana/libft"><img src=".github/assets/libftm.png" alt="libft bonus" width="90"/></a></td>
-               </tr>
-               <tr>
-                  <td>Grade</td>
-                  <td align="center">125/100</td>
-               </tr>
-               <tr align="center">
-                  <td>Submission</td>
-                  <td><a href="https://github.com/jandrana/libft">18/09/2023</a></td>
-               </tr>
-            </table>
-            <table>
-               <tr>
-                  <td><strong>Level 1<strong></td>
-                  <td><a href="https://github.com/jandrana/ft_printf"><img src=".github/assets/ft_printfe.png" alt="printf" width="95"/></a></td>
-                  <td><a href="https://github.com/jandrana/get_next_line"><img src=".github/assets/get_next_linem.png" alt="get_next_line bonus" width="90"/></a></td>
-                  <td><a href=""><img src=".github/assets/born2berootm.png" alt="born2beroot bonus" width="90"/></a></td>
-               </tr>
-               <tr>
-                  <td>Grade</td>
-                  <td align="center">100/100</td>
-                  <td align="center">125/100</td>
-                  <td align="center">125/100</td>
-               </tr>
-               <tr align="center">
-                  <td>Submission</td>
-                  <td><a href="https://github.com/jandrana/ft_printf">25/09/2023</a></td>
-                  <td><a href="https://github.com/jandrana/get_next_line">02/10/2023</a></td>
-                  <td>17/10/2023</td>
-               </tr>
-            </table>
-            <table>
-               <tr>
-                  <td><strong>Level 2<strong></td>
-                  <td><a href="https://github.com/jandrana/push_swap"><img src=".github/assets/push_swapm.png" alt="push_swap" width="90"/></a></td>
-                  <td><a href="https://github.com/jandrana/so_long"><img src=".github/assets/so_longm.png" alt="so_long in progress" width="90"/></a></td>
-                  <td><a href="https://github.com/jandrana/minitalk"><img src=".github/assets/minitalkm.png" alt="minitalk" width="90"/></a></td>
-               </tr>
-               <tr>
-                  <td>Grade</td>
-                  <td align="center">125/100</td>
-                  <td align="center">125/100</td>
-                  <td align="center">125/100</td>
-               </tr>
-               <tr align="center">
-                  <td>Submission</td>
-                  <td><a href="https://github.com/jandrana/push_swap">14/03/2024</a></td>
-                  <td><a href="https://github.com/jandrana/so_long">15/04/2024</a></td>
-                  <td><a href="https://github.com/jandrana/minitalk">19/04/2024</a></td>
-               </tr>
-            </table>
-            <table>
-               <tr>
-                  <td><strong>Level 3<strong></td>
-                  <td><a href="https://github.com/jandrana/minishell"><img src=".github/assets/minishelln.png" alt="minishell in progress" width="90"/></a></td>
-                  <td><a href="https://github.com/jandrana/philosophers"><img src=".github/assets/philosophersn.png" alt="philosophers in progress" width="90"/></a></td>
-               </tr>
-               <tr>
-                  <td>Grade</td>
-                  <td colspan="2" rowspan="2" align="center"><a>❓</a></td>
-               </tr>
-               <tr align="center">
-                  <td>Submission</td>
-               </tr>
-            </table>
-            <table width="100" align="center">
-               <thead>
-                  <th colspan="3">Badge Colours - Legend</th>
-               </thead>
-               <tbody>
-                  <tr align="center">
-                     <td><strong>⚫️ In progress</strong></td>
-                     <td><strong>🔵 Finished</strong></td>
-                     <td><strong>⭐️ Finished + bonus</strong></td>
-                  </tr>
-                  <tr align="center">
-                     <td><img src=".github/assets/inprogress.png" alt="in progress" width="70"/></td>
-                     <td><img src=".github/assets/finished.png" alt="completed" width="70"/></td>
-                     <td><img src=".github/assets/bonus.png" alt="completed bonus" width="68"/></td>
-                  </tr>
-               </tbody>
-            </table>
-      </td>
+      <tr align="center">
+         <td><strong>⚫️ In progress</strong></td>
+         <td><strong>🔵 Finished</strong></td>
+         <td><strong>⭐️ Finished + bonus</strong></td>
+      </tr>
+      <tr align="center">
+         <td><img src=".github/assets/inprogress.png" alt="in progress" width="70"/></td>
+         <td><img src=".github/assets/finished.png" alt="completed" width="70"/></td>
+         <td><img src=".github/assets/bonus.png" alt="completed bonus" width="68"/></td>
+      </tr>
    </tbody>
 </table>
 
+## Exams Presented
 <table>
+   <tr>
+      <td><strong>Passed Exams <center>(100/100)</center><strong></td>
+      <td><a href="https://github.com/jandrana/Exam_Rank_02">Exam Rank 02</a></td>
+      <td><a href="https://github.com/jandrana/Exam_Rank_03">Exam Rank 03</a></td>
+   </tr>
+   <tr>
+      <td>Level</td>
+      <td align="center">Level 2</td>
+      <td align="center">Level 3</td>
+   </tr>
+   <tr>
+      <td>Submission(s)</td>
+      <td align="center">19/10/2023</td>
+      <td align="center">03/05/2024</td>
+   </tr>
+   <tr>
+      <td>Passed/Tries</td>
+      <td align="center">1/1</td>
+      <td align="center">1/1</td>
+   </tr>
+</table>
+<table width="100">
    <thead>
-      <th>EXAMS PRESENTED</th>
+      <th colspan="3">Exams Legend</th>
    </thead>
    <tbody>
-      <td>
-            <table>
-               <tr>
-                  <td><strong>Passed Exams <center>(100/100)</center><strong></td>
-                  <td><a href="https://github.com/jandrana/Exam_Rank_02">Exam Rank 02</a></td>
-                  <td><a href="https://github.com/jandrana/Exam_Rank_03">Exam Rank 03</a></td>
-               </tr>
-               <tr>
-                  <td>Level</td>
-                  <td align="center">Level 2</td>
-                  <td align="center">Level 3</td>
-               </tr>
-               <tr>
-                  <td>Submission(s)</td>
-                  <td align="center">19/10/2023</td>
-                  <td align="center">03/05/2024</td>
-               </tr>
-               <tr>
-                  <td>Passed/Tries</td>
-                  <td align="center">1/1</td>
-                  <td align="center">1/1</td>
-               </tr>
-            </table>
-            <table width="100" align="center">
-               <thead>
-                  <th colspan="3">Exams Legend</th>
-               </thead>
-               <tbody>
-                  <tr align="center">
-                     <td><strong>Level</strong></td>
-                     <td><strong>Submission(s)</strong></td>
-                     <td><strong>Passed/Tries</strong></td>
-                  </tr>
-                  <tr align="justify">
-                     <td>Level <br>corresponding <br>to each exam</td>
-                     <td>Dates of every <br>submission(s) of <br>each exam</td>
-                     <td>Number of times that <br>I passed each exam <br>divided by the number <br>of times I took each exam</td>
-                  </tr>
-                  <tr>
-                     <td colspan="3"><p> In order to pass you have to get a 100/100, any less is a failed exam</p></td>
-                  </tr>
-               </tbody>
-            </table>
-      </td>
+      <tr align="center">
+         <td><strong>Level</strong></td>
+         <td><strong>Submission(s)</strong></td>
+         <td><strong>Passed/Tries</strong></td>
+      </tr>
+      <tr align="justify">
+         <td>Level <br>corresponding <br>to each exam</td>
+         <td>Dates of every <br>submission(s) of <br>each exam</td>
+         <td>Number of times that <br>I passed each exam <br>divided by the number <br>of times I took each exam</td>
+      </tr>
+      <tr>
+         <td colspan="3"><p> In order to pass you have to get a 100/100, any less is a failed exam</p></td>
+      </tr>
    </tbody>
 </table>
 
