@@ -4,7 +4,7 @@ Welcome to my 42Cursus repository! This is where I'll be sharing all the project
 
 The purpose of this repository is to keep track of my journey as a coding student at 42. Here, you'll find the projects I develop as part of my 42 experience. 
 
-**Important Note:** This repository is continuously updated as I progress through each project, which means that the latest proyects may be unfinished or have important errors (check the status of each proyect on [Proyects](#proyects)). 
+**Important Note:** This repository is continuously updated as I progress through each project, which means that the latest projects may be unfinished or have important errors (check the status of each project on [Projects](#projects)). 
 
 Feel free to explore the repo, provide feedback, and follow along!
 
