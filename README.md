@@ -21,49 +21,49 @@ Feel free to explore the repo, provide feedback, and follow along!
    <tbody>
       <tr>
          <td align="center">0</td>
-         <td><a href="https://github.com/jandrana/libft"><img src=".github/assets/libftm.png" alt="libft bonus" width="90"/></a></td>
+         <td align="center"><a href="https://github.com/jandrana/libft"><img src=".github/assets/libftm.png" alt="libft bonus" width="90"/></a><br>Libft</td>
          <td align="center">125/100</td>
          <td><a href="https://github.com/jandrana/libft">18/09/2023</a></td>
       </tr>
       <tr>
          <td rowspan="3" align="center">1</td>
-         <td><a href="https://github.com/jandrana/ft_printf"><img src=".github/assets/ft_printfe.png" alt="printf" width="95"/></a></td>
+         <td align="center"><a href="https://github.com/jandrana/ft_printf"><img src=".github/assets/ft_printfe.png" alt="printf" width="95"/></a><br>ft_printf</td>
          <td align="center">100/100</td>
          <td><a href="https://github.com/jandrana/ft_printf">25/09/2023</a></td>
       </tr>
       <tr>
-         <td><a href="https://github.com/jandrana/get_next_line"><img src=".github/assets/get_next_linem.png" alt="get_next_line bonus" width="90"/></a></td>
+         <td align="center"><a href="https://github.com/jandrana/get_next_line"><img src=".github/assets/get_next_linem.png" alt="get_next_line bonus" width="90"/></a><br>get_next_line</td>
          <td align="center">125/100</td>
          <td><a href="https://github.com/jandrana/get_next_line">02/10/2023</a></td>
       </tr>
       <tr>
-         <td><a href=""><img src=".github/assets/born2berootm.png" alt="born2beroot bonus" width="90"/></a></td>
+         <td align="center"><a href=""><img src=".github/assets/born2berootm.png" alt="born2beroot bonus" width="90"/></a><br>Born2beroot</td>
          <td align="center">125/100</td>
          <td>17/10/2023</td>
       </tr>
       <tr>
          <td rowspan="3" align="center">2</td>
-         <td><a href="https://github.com/jandrana/push_swap"><img src=".github/assets/push_swapm.png" alt="push_swap" width="90"/></a></td>
+         <td align="center"><a href="https://github.com/jandrana/push_swap"><img src=".github/assets/push_swapm.png" alt="push_swap bonus" width="90"/></a><br>push_swap</td>
          <td align="center">125/100</td>
          <td><a href="https://github.com/jandrana/push_swap">14/03/2024</a></td>
       </tr>
       <tr>
-         <td><a href="https://github.com/jandrana/so_long"><img src=".github/assets/so_longm.png" alt="so_long in progress" width="90"/></a></td>
+         <td align="center"><a href="https://github.com/jandrana/so_long"><img src=".github/assets/so_longm.png" alt="so_long bonus" width="90"/></a><br>so_long</td>
          <td align="center">125/100</td>
          <td><a href="https://github.com/jandrana/so_long">15/04/2024</a></td>
       </tr>
       <tr>
-         <td><a href="https://github.com/jandrana/minitalk"><img src=".github/assets/minitalkm.png" alt="minitalk" width="90"/></a></td>
+         <td align="center"><a href="https://github.com/jandrana/minitalk"><img src=".github/assets/minitalkm.png" alt="minitalk bonus" width="90"/></a><br>minitalk</td>
          <td align="center">125/100</td>
          <td><a href="https://github.com/jandrana/minitalk">19/04/2024</a></td>
       </tr>
       <tr>
          <td rowspan="2" align="center">3</td>
-         <td><a href="https://github.com/jandrana/minishell"><img src=".github/assets/minishelln.png" alt="minishell in progress" width="90"/></a></td>
+         <td align="center"><a href="https://github.com/jandrana/minishell"><img src=".github/assets/minishelln.png" alt="minishell in progress" width="90"/></a><br>minishell</td>
          <td align="center" colspan="2">❓</td>
       </tr>
       <tr>
-         <td><a href="https://github.com/jandrana/philosophers"><img src=".github/assets/philosophersn.png" alt="philosophers in progress" width="90"/></a></td>
+         <td align="center"><a href="https://github.com/jandrana/philosophers"><img src=".github/assets/philosophersn.png" alt="philosophers in progress" width="90"/></a><br>Philosophers</td>
          <td align="center" colspan="2">❓</td>
       </tr>
    </tbody>
