@@ -1,4 +1,6 @@
-<p align="center"><img src="../../../.github/gnlbanner.png" alt="Get Next Line banner"/></p>
+<h1 align="center">Exam Rank 03: Get Next Line</h1>
+
+<p align="center"><img src="https://github.com/jandrana/get_next_line/blob/main/.github/gnlbanner.png" alt="Get Next Line banner"/></p>
 
 <p align="justify">The <strong>Get Next Line (GNL)</strong> is a function developed in C that reads text from a certain file descriptor (fd) and returns one line at a time when calling the get_next_line function.<br><br>It is very important to
 make sure that the function doesn´t have any memory leaks of any kind or the function will not pass the exam.</p>
@@ -12,11 +14,12 @@ To make sure that there are no leaks in your get_next_line, you can check it usi
 - [`get_next_line.c`](./get_next_line.c): Includes all the functions necessary for the implementation of the get_next_line.
 - [`get_next_line.h`](./get_next_line.h): Header file for defining used libraries, function prototypes and constants like <code>BUFFER_SIZE</code>
 
-## Get Next Line Versions
 
-I have uploaded two different versions for the development of the get_next_line function, both versions pass successfully the exam and don´t have any memory leaks.
+## Get Next Line Versions
 
-The get_next_line exam was generating a lot of problems in my campus, because a lot of people were trying to pass the exam with a working gnl but they were not passing it because of the memory leaks (their version of gnl passed the project but not the exam nor the strict francinette tester). This is exactly what encouraged me to upload 2 different explained versions of my gnl.
+I have uploaded two different versions for the development of the get_next_line function, both versions pass successfully the exam and do not have any memory leaks.
+
+The get_next_line exam was generating a lot of problems in my campus, because a lot of people were trying to pass the exam with a working GNL but they were not passing it because of the memory leaks (their version of gnl passed the project but not the exam nor the strict francinette tester). This is exactly what encouraged me to upload 2 different explained versions of my gnl.
 
 ### Long Version
 The **long_version** of the get_next_line includes a more readable and understandable version.
