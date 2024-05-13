@@ -13,38 +13,36 @@ char	*free_str(char **str)
 	return (NULL);
 }
 
-int	ft_strlen(char *str)
+int	ft_strlen(const char *str)
 {
-	int	i;
+	int	i = -1;
 
-	i = -1;
-	while (str[++i])
-		;
+	while (str[++i]);
 	return (i);
 }
 
-char	*ft_strdup(char *s)
+char	*ft_strdup(char *str)
 {
-	char	*result;
+	char	*duplicate;
 	int		i;
 
-	result = (char *)malloc(sizeof(char) * ft_strlen(s) + 1);
-	if (!result)
+	duplicate = (char *)malloc(sizeof(char) * ft_strlen(str) + 1);
+	if (!duplicate)
 		return (NULL);
 	i = -1;
-	while (s[++i])
-		result[i] = s[i];
-	result[i] = '\0';
-	return (result);
+	while (str[++i])
+		duplicate[i] = str[i];
+	duplicate[i] = '\0';
+	return (duplicate);
 }
 
-char	*ft_substr(const char *s, unsigned int start, size_t len)
+char	*ft_substr(const char *str, size_t start, size_t len)
 {
 	char			*substr;
-	unsigned int	s_len;
-	unsigned int	i;
+	size_t			s_len;
+	size_t			i;
 
-	s_len = (unsigned int)ft_strlen((char *)s);
+	s_len = (size_t)ft_strlen(str);
 	if (start >= s_len)
 		return (ft_strdup(""));
 	if (start + len > s_len)
@@ -54,7 +52,7 @@ char	*ft_substr(const char *s, unsigned int start, size_t len)
 		return (NULL);
 	i = -1;
 	while (++i < len)
-		substr[i] = s[start + i];
+		substr[i] = str[i + start];
 	substr[i] = '\0';
 	return (substr);
 }
