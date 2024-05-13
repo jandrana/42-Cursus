@@ -25,9 +25,10 @@ The get_next_line exam was generating a lot of problems in my campus, because a 
 The **long_version** of the get_next_line includes a more readable and understandable version.
 - It casts every **malloc** as good practice and uses sizeof(char) * num_char, even though the cast is not necessary and neither is the sizeof(char), since it is always equal to 1.
 	- Example of two mallocs that do the exact same thing:
-		- string = (char *)malloc(sizeof(char) * num_char + 1);
-		- string = malloc(num_char + 1);
-
+		- ```c
+    		string = (char *)malloc(sizeof(char) * num_char + 1);
+		- ```c
+    		string = malloc(num_char + 1);
 - In this version, when copying a string (or part of it) it always does it by iterating each character one by one in each function.
 	- Example of copying s1 into s2 with this version:
 		- ```c
