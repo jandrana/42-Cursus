@@ -102,7 +102,7 @@ Feel free to explore the repo, provide feedback, and follow along!
    </tr>
    <tr>
       <td align="center">3</td>
-      <td><a href="https://github.com/jandrana/42-Cursus/tree/develop/Exams/Exam_Rank_03">Exam Rank 03</a></td>
+      <td><a href="https://github.com/jandrana/42-Cursus/Exams/Exam_Rank_03">Exam Rank 03</a></td>
       <td align="center">03/05/2024 ➡️ 100/100</a></td>
       <td align="center">1/1</td>
    </tr>
