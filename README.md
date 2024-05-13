@@ -96,13 +96,13 @@ Feel free to explore the repo, provide feedback, and follow along!
    </thead>
    <tr>
       <td align="center">2</td>
-      <td><a href="https://github.com/jandrana/Exam_Rank_02">Exam Rank 02</a></td>
+      <td>Exam Rank 02</a></td>
       <td align="center">19/10/2023 ➡️ 100/100</td>
       <td align="center">1/1</td>
    </tr>
    <tr>
       <td align="center">3</td>
-      <td><a href="https://github.com/jandrana/Exam_Rank_03">Exam Rank 03</a></td>
+      <td><a href="https://github.com/jandrana/42-Cursus/Exams/Exam_Rank_03">Exam Rank 03</a></td>
       <td align="center">03/05/2024 ➡️ 100/100</a></td>
       <td align="center">1/1</td>
    </tr>
