@@ -6,7 +6,7 @@
 /*   By: ana-cast <ana-cast@student.42malaga.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/06 18:53:56 by ana-cast          #+#    #+#             */
-/*   Updated: 2024/05/13 16:07:34 by ana-cast         ###   ########.fr       */
+/*   Updated: 2024/05/14 16:39:43 by ana-cast         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -143,14 +143,15 @@ char	*gnl_strjoin(char *s1, char *s2);
  * @details First of all, the function creates a duplicate of *buffer, stores it 
  * in temp and frees buffer, that way we can calmly get the resulting line and
  * update buffer without leak preoccupations. We check that the duplicate was
- * created succesfully (or return NULL). 
- * Now, we check if there is a new line stored in the buffer (actual temp),
- * if there isn't, the resulting line will be the duplicate of the whole buffer
- * (actual temp), so the new buffer will be empty (free temp) and finally we 
+ * created succesfully (or return NULL).
+ * Now we assign the result of searching for a new line in the original buffer
+ * (actual temp) in nl_pos (nl_pos = gnl_strchr(temp, '\n'))
+ * Now, we check if there nl_pos is 0, which means that temp didn't contain any
+ * new line. If it is 0, the resulting line will be the duplicate of the whole 
+ * buffer (temp), so the new buffer will be empty (free temp) and finally we 
  * return the result (which is the resulting line). 
- * If there was a new line stored in the buffer (temp), then we look for its 
- * position (+ 1) and assign it to nl_pos (new line position).
- * Then, we create a substring of the old buffer (temp), from the beggining (0),
+ * If there was a new line stored in the buffer (temp) (nl_pos != 0), we create
+ * a substring of the old buffer (temp), from the beggining (0),
  * to the included nl_pos. After creating the substr we check that it was
  * created succesfully (otherwise we free temp and return NULL). 
  * We now update the new buffer to the correct one (deleting the resulting line
@@ -171,7 +172,7 @@ char	*gnl_strjoin(char *s1, char *s2);
  * buffer variable (from the get_next_line function), to be updated without 
  * assigning its value in the main function get_next_line.
 */
-char	*get_result_buffer(char **buffer, int nl_pos);
+char	*get_result_buffer(char **buffer);
 
 /**
  * @brief This function is made to read from the indicated fd and adding to the
