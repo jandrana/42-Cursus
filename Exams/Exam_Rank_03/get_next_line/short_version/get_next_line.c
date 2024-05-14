@@ -34,7 +34,7 @@ char	*ft_strdup(char *str)
 
 	duplicate = malloc(ft_strlen(str) + 1);
 	if (!duplicate)
-		return (duplicate);
+		return (NULL);
 	gnl_strcpy(duplicate, str, 0);
 	return (duplicate);
 }
@@ -47,7 +47,7 @@ char	*ft_substr(char *str, int start, int len)
 		return (NULL);
 	substr = malloc(len + 1);
 	if (!substr)
-		return (substr);
+		return (NULL);
 	gnl_strcpy(substr, str + start, len + 1);
 	return (substr);
 }
@@ -77,15 +77,17 @@ char	*gnl_strjoin(char *s1, char *s2)
 	return (free_str(&s1), join);
 }
 
-char	*get_result_buffer(char **buffer, int nl_pos)
+char	*get_result_buffer(char **buffer)
 {
 	char	*temp;
 	char	*result;
+	int		nl_pos;
 
 	temp = ft_strdup(*buffer);
 	free_str(buffer);
 	if (!temp)
 		return (NULL);
+	nl_pos = gnl_strchr(temp, '\n');
 	if (!nl_pos)
 	{
 		result = ft_strdup(temp);
@@ -95,7 +97,7 @@ char	*get_result_buffer(char **buffer, int nl_pos)
 	if (!result)
 		return (free_str(&temp));
 	*buffer = ft_substr(temp, nl_pos, ft_strlen(temp) - nl_pos);
-	if (!*buffer || !*buffer[0])
+	if (!*buffer)
 		free_str(buffer);
 	return (free_str(&temp), result);
 }
@@ -133,5 +135,5 @@ char	*get_next_line(int fd)
 		buffer = add_buffer(buffer, fd);
 	if (!buffer)
 		return (NULL);
-	return (get_result_buffer(&buffer, gnl_strchr(buffer, '\n')));
+	return (get_result_buffer(&buffer));
 }
