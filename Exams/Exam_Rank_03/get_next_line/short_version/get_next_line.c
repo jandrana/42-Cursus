@@ -10,7 +10,7 @@ char	*free_str(char **p_str)
 {
 	free(*p_str);
 	*p_str = NULL;
-	return (*p_str);
+	return (NULL);
 }
 
 int	ft_strlen(char *str)
