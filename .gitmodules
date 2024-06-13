@@ -19,3 +19,9 @@
 [submodule "so_long"]
 	path = so_long
 	url = https://github.com/jandrana/so_long
+[submodule "42Utils/42python_install"]
+	path = 42Utils/42python_install
+	url = https://github.com/jandrana/42python_install
+[submodule "42Utils/42cleaner"]
+	path = 42Utils/42cleaner
+	url = https://github.com/jandrana/42cleaner
