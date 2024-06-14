@@ -10,13 +10,13 @@ Feel free to explore, provide feedback, and follow along!
 
 - [Cursus Projects and Exams Tables](#-cursus-tables)
 - [Project Descriptions](#-project-descriptions)
-   - [Level 2: push_swap](#level-2-push_swap)
-   - [Level 2: so_long](#level-2-so_long)
-   - [Level 2: minitalk](#level-2-minitalk)
-   - [Level 1: get_next_line](#level-1-get_next_line)
-   - [Level 1: ft_printf](#level-1-ft_printf)
-   - [Level 1: born2beroot](#level-1-born2beroot)
-   - [Level 0: libft](#level-0-libft)
+   - [Level 2: push_swap](#level-2-push_swap-)
+   - [Level 2: so_long](#level-2-so_long-)
+   - [Level 2: minitalk](#level-2-minitalk-)
+   - [Level 1: get_next_line](#level-1-get_next_line-)
+   - [Level 1: ft_printf](#level-1-ft_printf-)
+   - [Level 1: born2beroot](#level-1-born2beroot-)
+   - [Level 0: libft](#level-0-libft-)
 - [Exams](#-exams)
 - [42Utils](#-42utils)
 - [Usage](#-usage)
@@ -27,7 +27,7 @@ Feel free to explore, provide feedback, and follow along!
 
 ## 📁 Cursus Tables
 
-<ul><details><summary>Project ⏬</summary>
+<details><summary><b>Projects</b></summary>
 <table width="100" align="center">
    <thead>
       <th>Level</th>
@@ -104,7 +104,7 @@ Feel free to explore, provide feedback, and follow along!
 </table>
 </details>
 
-<details><summary>Exams ⏬</summary>
+<details><summary><b>Exams</b></summary>
 <table width="100" align="center">
    <thead>
       <th align="center">Level</th>
@@ -128,11 +128,13 @@ Feel free to explore, provide feedback, and follow along!
       <td colspan="4">Remember that in order to pass an exam you have to get the maximum grade (100)</td>
    </tr>
 </table>
-</details></ul>
+</details>
 
-## 📄 Project Descriptions
+## 🧩 Project Descriptions
 
-### Level 2: [push_swap](https://github.com/jandrana/push_swap)
+<details><summary><b>Level 2</b></summary>
+
+### Level 2: [push_swap](https://github.com/jandrana/push_swap) 🔄
 
 The `push_swap` project is a fundamental algorithmic challenge where you have to sort data in the most effective way possible. You're given a stack of integers, two stacks to manipulate, and a limited set of actions. The objective is to write a C program called `push_swap` that calculates and displays the smallest set of actions necessary to sort the initial stack. Developed within the project's guidelines, my program efficiently sorts the provided input.
 
@@ -142,7 +144,7 @@ Things to highlight as learnt with this project:
  - Development, optimization and implementation of sorting algorithms
  - Utilization and deeper comprehension of data structures (double linked lists)
 
-### Level 2: [so_long](https://github.com/jandrana/so_long)
+### Level 2: [so_long](https://github.com/jandrana/so_long) 🎮
 
 The `so_long` project is a small 2D game development project that makes use of the [MLX42](https://github.com/codam-coding-college/MLX42) library (Codam 42 Students "own fixed, functioning and open-source alternative to the MiniLibX"). The objective of the project is to create a simple game where a player moves through a map with the goal of collecting all the items available by avoiding obstacles and enemies before reaching the exit.
 
@@ -154,7 +156,7 @@ General steps taken for completing the project:
  - Created a functional 2D game environment based on parsed map data
  - Ensured the complete project was leak free.
 
-### Level 2: [minitalk](https://github.com/jandrana/minitalk)
+### Level 2: [minitalk](https://github.com/jandrana/minitalk) 💬
 
 The `minitalk` project involves creating a data exchange program using UNIX signals. It consists of a server and a client executable, where the client sends messages to the server via SIGUSR1 and SIGUSR2 signals. The server reconstructs the message and displays it.
 
@@ -165,45 +167,48 @@ Key achievements:
  - Added support for Unicode characters
  - Enhanced skills in data transfer reliability and error handling
 
-### Level 1: [get_next_line](https://github.com/jandrana/get_next_line)
+</details>
+<details><summary><b>Level 1</b></summary>
+
+### Level 1: [get_next_line](https://github.com/jandrana/get_next_line) 📜
 
 The `get_next_line` project focuses on developing a function that reads content from a file descriptor line by line. With this project I got the opportunity to really understand how to prevent memory leaks and how to allocate just the neccessary space in order to increase the optimization of the code. Furthermore, with the bonus files, not only you can read content from one but from as many file descriptor as you want without losing track of what line you have to return next.
 
-### Level 1: [ft_printf](https://github.com/jandrana/ft_printf)
+### Level 1: [ft_printf](https://github.com/jandrana/ft_printf) 📠
 
 In the `ft_printf` project, I replicated the functionality of the standard `printf` function in C. The main challenge of this project was to learn how variadic functions work and how to use them, which involved handling the formatting and printing of text with different data types. Completing this project made possible adding it to my "libft" library for future use.
 
 
-### Level 1: born2beroot
+### Level 1: born2beroot 💻
 
 With the `born2beroot` project I learned to create and configure a VM with Debian (without graphical interface). After installing the VM I got to install and configure the following programs/services: sudo (including commands logs), ssh, ufw, wordpress (mariadb, php, openlitespeed). The project also included the development of a sh script that showed general information of the virtual machine every 10 minutes. Information like: VM architecture, RAM load, CPU load, ip and MAC address, number of: vCPU, TCP connections, sudo commands done...
 
+</details>
+<details><summary><b>Level 0</b></summary>
 
-### Level 0: [libft](https://github.com/jandrana/libft)
+### Level 0: [libft](https://github.com/jandrana/libft) 📖
 
 The `libft` project is the first one of my journey as a 42 student and has played a crucial role in upcoming assignments, since the library created here is used in upcoming projects. Here, I created my very first C library from scratch.
 
 This project pushed me to deeply understand how the original replicated functions work, helping me develop a more comprehensive understanding of their inner workings and how to enhance them. It's not just about meeting project requirements; it's about making the best possible library since it will become the base of many other projects.
 
+</details>
+
 ## 🔖 Exams
 
-The Exam folder contains my own solutions to various exam questions present in the 42 experience. Each solution is documenteed with a README that explains the approach and methodology used to arrive to the answer. They cover a variety of topics and are designed to test comprehensive understanding and problem-solving skills. Some solutions were developed for practice, study and mentoring purposes. While I am confident in their functionality, some have not been verified in an offical exam environment.
+The Exam folder contains my own solutions to various exam questions present in the 42 experience. Each solution is documented with with explanations about the approach and methodology used to arrive to the answer. They cover a variety of topics and are designed to test comprehensive understanding and problem-solving skills. Some solutions were developed for practice, study and mentoring purposes. While I am confident in their functionality, some have not been verified in an offical exam environment.
 
 These answers are meant for teaching and mentoring; never rely on someone else's code to pass an exam. Focus on understanding the solutions rather than memorizing them.
 
-## 📈 42Utils
+## 🔨 42Utils
 
 The 42Utils folder contains a collection of scripts I have developed to help students with various tasks, with the objective of improving productivity. Repositories that you can find in the 42Utils folder include:
  - [42cleaner](https://github.com/jandrana/42cleaner): Script designed to clean cache and temporary files for 42 students using Linux/Ubuntu. It helps to free up disk space and maintain system performance.
  - [42python_install](https://github.com/jandrana/42python_install/): Script designed to automate the task of installing a user version of Python using "pyenv" without needing root/sudo permissions.
 
-## 🔧 Usage
+## 📑 Usage
 
-This repository is intended for academic and educational purposes. It is meant to showcase my progress as a student in the 42Cursus. Please use it responsibly.
-
-### Testing the Projects
-
-To test the projects in this repository, you'll need access to a compatible development environment. The following instructions provide a general guideline:
+To make use of the projects in this repository, you'll need access to a compatible development environment. The following instructions provide a general guideline:
 
 1. **Operating System Compatibility:** The projects in this repository are primarily designed for Unix-like operating systems. It is recommended to use macOS or a Linux distribution (e.g., Ubuntu) for optimal compatibility.
 
@@ -216,20 +221,22 @@ To test the projects in this repository, you'll need access to a compatible deve
    make
 
 Please note that these are general guidelines, and each project may have its own specific setup and testing requirements. Check on the project's individual README for detailed instructions on how to test the project.
+
 ## ✨ Feedback
 
 I warmly welcome feedback and contributions to this repository. If you find any issues, have suggestions for improvements, or would like to collaborate, please don't hesitate to reach out.
 
 - You can [open an issue](https://github.com/jandrana/42-Cursus/issues) to report problems or propose enhancements.
-- Additionally, feel free to [contact me](#contact-me) directly if you have any questions or ideas to share.
+- Additionally, feel free to [contact me](#-contact-me) directly if you have any questions or ideas to share.
 
-## 👋 Contact me
+## 📬 Contact me
 
 - Github: [@jandrana](https://github.com/jandrana)
 - 42 login: [ana-cast](https://profile.intra.42.fr/users/ana-cast)
 - Mail: yo@anaalejandra.com
 
 Feel free to contact me!
+
 ## 💌 Acknowledgments
 
 I would like thank all the following individuals and resources who have contributed to the development of the projects in this repository:
