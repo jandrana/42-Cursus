@@ -1,6 +1,13 @@
 <p align="center"><img src=".github/assets/cursusbanner.png" alt="Cursus banner"/></p>
 
-Welcome to my **42Cursus** repository! This is where I'll be sharing all the projects I work on during my time as a student in 42Malaga.
+<div align="center" >
+   <a href="https://www.42malaga.com/"><img alt="Static Badge" src="https://img.shields.io/badge/MALAGA STUDENT-white?style=for-the-badge&logo=42&logoColor=black"></a>
+   <!-- BADGES TO INCLUDE MULTILANGUAGE READMES 
+   <a href="https://www.42malaga.com/"><img alt="Static Badge" src="https://img.shields.io/badge/es%20%F0%9F%87%AA%F0%9F%87%B8-red?style=for-the-badge&logo=es&logoColor=black&label=lang"></a>
+   <a href="https://www.42malaga.com/"><img alt="Static Badge" src="https://img.shields.io/badge/en%20%F0%9F%87%AC%F0%9F%87%A7-lightblue?style=for-the-badge&logo=es&logoColor=black&label=lang"></a> -->
+</div><br>
+
+Welcome to my **42Cursus** repository! This is where I'll be sharing all the projects I work on during my time as a student in [42Malaga](https://www.42malaga.com/).
 
 The purpose of this repository is to keep track of my journey as a coding student at 42. Here, you'll find the projects I develop as part of my 42 experience. 
 
@@ -232,9 +239,11 @@ I warmly welcome feedback and contributions to this repository. If you find any 
 
 ## 📬 Contact me
 
-- Github: [@jandrana](https://github.com/jandrana)
-- 42 login: [ana-cast](https://profile.intra.42.fr/users/ana-cast)
-- Mail: yo@anaalejandra.com
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ana-alejandra-castillejo)
+
+[![42 Login Badge](https://img.shields.io/badge/ana--cast-white?style=for-the-badge&logo=42&logoColor=black)](https://profile.intra.42.fr/users/ana-cast)
+
+[![Mail Badge](https://img.shields.io/badge/yo@anaalejandra.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yo@anaalejandra.com)
 
 Feel free to contact me!
 
