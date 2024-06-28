@@ -198,7 +198,8 @@ This project pushed me to deeply understand how the original replicated function
 
 The Exam folder contains my own solutions to various exam questions present in the 42 experience. Each solution is documented with with explanations about the approach and methodology used to arrive to the answer. They cover a variety of topics and are designed to test comprehensive understanding and problem-solving skills. Some solutions were developed for practice, study and mentoring purposes. While I am confident in their functionality, some have not been verified in an offical exam environment.
 
-These answers are meant for teaching and mentoring; never rely on someone else's code to pass an exam. Focus on understanding the solutions rather than memorizing them.
+> [!TIP]
+> These answers are meant for teaching and mentoring; never rely on someone else's code to pass an exam. Focus on understanding the solutions rather than memorizing them.
 
 ## 🔨 42Utils
 
@@ -253,8 +254,10 @@ I would like thank all the following individuals and resources who have contribu
 
 ### Important Notes ❗
 
-This repository is continuously updated as I progress through each project. Latest projects may be unfinished or contain errors (check [Projects Table](#-cursus-tables) for status).
+> [!NOTE]
+> This repository is continuously updated as I progress through each project. Latest projects may be unfinished or contain errors (check [Projects Table](#-cursus-tables) for status).
 
-⚠️ **Warning:** This repository is a learning resource tracking my personal progress. Use it to enhance your understanding and skills, but do not copy the code for your 42 projects. Misuse can lead to a cheating grade and hinder your academic growth.
+> [!CAUTION]
+> This repository is a learning resource tracking my personal progress. Use it to enhance your understanding and skills, but do not copy the code for your 42 projects. Misuse can lead to a cheating grade and hinder your academic growth.
 
 ---
