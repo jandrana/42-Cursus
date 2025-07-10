@@ -25,3 +25,9 @@
 [submodule "42Utils/42cleaner"]
 	path = 42Utils/42cleaner
 	url = https://github.com/jandrana/42cleaner
+[submodule "minishell"]
+	path = minishell
+	url = https://github.com/jandrana/minishell
+[submodule "philosophers"]
+	path = philosophers
+	url = https://github.com/jandrana/philosophers
