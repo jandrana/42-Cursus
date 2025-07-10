@@ -7,9 +7,6 @@
 [submodule "get_next_line"]
 	path = get_next_line
 	url = https://github.com/jandrana/get_next_line
-[submodule "born2beroot"]
-	path = born2beroot
-	url = https://github.com/jandrana/born2beroot
 [submodule "minitalk"]
 	path = minitalk
 	url = https://github.com/jandrana/minitalk
@@ -34,9 +31,6 @@
 [submodule "cub3d"]
 	path = cub3d
 	url = https://github.com/jandrana/cub3d
-[submodule "NetPractice"]
-	path = NetPractice
-	url = https://github.com/jandrana/NetPractice
 [submodule "cpp_modules"]
 	path = cpp_modules
 	url = https://github.com/jandrana/cpp_modules
