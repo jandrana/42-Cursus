@@ -51,8 +51,8 @@ Feel free to explore, provide feedback, and follow along!
       </tr>
       <tr>
          <td rowspan="3" align="center">1</td>
-         <td align="center"><a href="https://github.com/jandrana/ft_printf"><img src=".github/assets/ft_printfe.png" alt="printf" width="95"/></a><br>ft_printf</td>
-         <td align="center">100/100</td>
+         <td align="center"><a href="https://github.com/jandrana/ft_printf"><img src="https://github.com/jandrana/42-project-badges/blob/main/badges/ft_printfm.png" alt="printf" width="95"/></a><br>ft_printf</td>
+         <td align="center">125/100</td>
          <td><a href="https://github.com/jandrana/ft_printf">25/09/2023</a></td>
       </tr>
       <tr>
@@ -83,11 +83,34 @@ Feel free to explore, provide feedback, and follow along!
       </tr>
       <tr>
          <td rowspan="2" align="center">3</td>
-         <td align="center"><a href="https://github.com/jandrana/minishell"><img src=".github/assets/minishelln.png" alt="minishell in progress" width="90"/></a><br>minishell</td>
-         <td align="center" colspan="2">❓</td>
+         <td align="center"><a href="https://github.com/jandrana/minishell"><img src="https://github.com/jandrana/42-project-badges/blob/main/badges/minishellm.png" alt="minishell" width="90"/></a><br>minishell</td>
+         <td align="center">125/100</td>
+         <td><a href="https://github.com/jandrana/minishell">25/07/2024</a></td>
       </tr>
       <tr>
-         <td align="center"><a href="https://github.com/jandrana/philosophers"><img src=".github/assets/philosophersn.png" alt="philosophers in progress" width="90"/></a><br>Philosophers</td>
+         <td align="center"><a href="https://github.com/jandrana/philosophers"><img src=".github/assets/philosophersm.png" alt="philosophers" width="90"/></a><br>Philosophers</td>
+         <td align="center">125/100</td>
+         <td><a href="https://github.com/jandrana/philosophers">09/09/2024</a></td>
+      </tr>
+      <tr>
+         <td rowspan="3" align="center">4</td>
+         <td align="center"><img src="https://github.com/jandrana/42-project-badges/blob/main/badges/netpracticem.png" alt="NetPractice" width="90"/></a><br>NetPractice</td>
+         <td align="center">100/100</td>
+         <td>16/09/2024</td>
+      </tr>
+      <tr>
+         <td align="center"><a href="https://github.com/jandrana/cub3d"><img src="https://github.com/jandrana/42-project-badges/blob/main/badges/cub3dm.png" alt="cub3d" width="90"/></a><br>Cub3D</td>
+         <td align="center">125/100</td>
+         <td><a href="https://github.com/jandrana/cub3d">18/06/2025</a></td>
+      </tr>
+      <tr>
+         <td align="center"><a href="https://github.com/jandrana/cpp_modules"><img src="https://github.com/jandrana/42-project-badges/blob/main/badges/cppm.png" alt="cpp00-04" width="90"/></a><br>CPP Modules 00-04</td>
+         <td align="center">100/100</td>
+         <td><a href="https://github.com/jandrana/cpp_modules">25/06/2025</a></td>
+      </tr>
+      <tr>
+         <td rowspan="2" align="center">5</td>
+         <td align="center"><a href="https://github.com/jandrana/Inception"><img src="https://github.com/jandrana/42-project-badges/blob/main/badges/inceptionn.png" alt="Inception in progress" width="90"/></a><br>Inception</td>
          <td align="center" colspan="2">❓</td>
       </tr>
    </tbody>
@@ -129,6 +152,18 @@ Feel free to explore, provide feedback, and follow along!
       <td align="center">3</td>
       <td><a href="https://github.com/jandrana/42-Cursus/tree/main/Exams/Exam_Rank_03">Exam Rank 03</a></td>
       <td align="center">03/05/2024</a></td>
+      <td align="center">100/100 🌟</td>
+   </tr>
+   <tr>
+      <td align="center">4</td>
+      <td>Exam Rank 04</td>
+      <td align="center">25/06/2025</a></td>
+      <td align="center">100/100 🌟</td>
+   </tr>
+   <tr>
+      <td align="center">5</td>
+      <td>Exam Rank 05</td>
+      <td align="center">26/06/2025</a></td>
       <td align="center">100/100 🌟</td>
    </tr>
    <tr>
