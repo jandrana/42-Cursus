@@ -31,3 +31,12 @@
 [submodule "philosophers"]
 	path = philosophers
 	url = https://github.com/jandrana/philosophers
+[submodule "cub3d"]
+	path = cub3d
+	url = https://github.com/jandrana/cub3d
+[submodule "NetPractice"]
+	path = NetPractice
+	url = https://github.com/jandrana/NetPractice
+[submodule "cpp_modules"]
+	path = cpp_modules
+	url = https://github.com/jandrana/cpp_modules
